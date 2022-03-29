@@ -1,4 +1,6 @@
 let score = 0;
+let team1 = "patriots";
+let team2 = "niners";
 
 function scoreUp() {
   score++;
